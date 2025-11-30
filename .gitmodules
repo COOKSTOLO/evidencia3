@@ -1,0 +1,12 @@
+[submodule "actividad11"]
+	path = actividad11
+	url = https://github.com/COOKSTOLO/actividadd11_aleksei-habid
+[submodule "actividad10"]
+	path = actividad10
+	url = https://github.com/COOKSTOLO/actividad10-alekseihabidtorruco
+[submodule "actividad9"]
+	path = actividad9
+	url = https://github.com/COOKSTOLO/actividad9-android
+[submodule "actividad12"]
+	path = actividad12
+	url = https://github.com/COOKSTOLO/actividad12
